@@ -1,0 +1,12 @@
+python-dotenv
+requests
+nest_asyncio
+mcp
+jupyterlab
+nbclient
+ipykernel
+# providers (only needed for ONLINE mode)
+openai
+mistralai<2
+anthropic
+# optional — cell 6b installs its own pinned ragas/langchain versions
